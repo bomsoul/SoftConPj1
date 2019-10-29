@@ -15,7 +15,7 @@ Username | Password
 b5910450409 | bom |
 b5910451162 | arm |
 
-** Feature **
+**Feature**
 
 * User need to login to your account
 * **Curriculum** User can see all course ,course level and user course status (pass or not)
